@@ -54,8 +54,8 @@ Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-aicpl&theme=highcontrast)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-aicpl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-aicpl&theme=monokai-metallian)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyanshu-aicpl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
