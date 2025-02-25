@@ -2,7 +2,7 @@
 I am a 2024 AI & Data Science graduate (CGPA: 8.13) with expertise in Machine Learning, Artificial Intelligence, Data Science, and Data Analytics. Currently working as a Software Engineer - AI, where I develop ML-driven solutions to solve real-world problems.
 
 🚀 Experience:
-🔹 Worked on industrial ML applications during my internship at Accurate Industrial Controls Pvt. Ltd.
+🔹 Worked on industrial ML applications during my internship at Accurate Industrial Controls Pvt. Ltd. <br>
 🔹 Developed AI-powered projects, including an exam proctoring system and a car price prediction platform, applying ML for real-time insights.
 
 💡 Passionate about AI-driven innovation and data-driven decision-making, I am eager to contribute to impactful projects in Machine Learning and AI-based software development.
