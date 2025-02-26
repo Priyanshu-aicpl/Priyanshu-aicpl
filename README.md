@@ -56,7 +56,7 @@ Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-aicpl&theme=monokai-metallian)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl&theme=monokai-metallian)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyanshu-aicpl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
