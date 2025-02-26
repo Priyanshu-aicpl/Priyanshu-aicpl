@@ -55,7 +55,7 @@ Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshu-aicpl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshu-aicpl&theme=neon)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
