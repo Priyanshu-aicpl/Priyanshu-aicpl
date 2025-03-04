@@ -3,7 +3,7 @@ I am a 2024 AI & Data Science graduate (CGPA: 8.13) with expertise in Machine Le
 
 🚀 Experience:
 🔹 Worked on industrial ML applications during my internship at Accurate Industrial Controls Pvt. Ltd. <br>
-🔹 Developed AI-powered projects, including an exam proctoring system and a car price prediction platform, applying ML for real-time insights.
+🔹 Developed AI-powered projects during Academics, including an exam proctoring system and a car price prediction platform, applying ML for real-time insights.
 
 💡 Passionate about AI-driven innovation and data-driven decision-making, I am eager to contribute to impactful projects in Machine Learning and AI-based software development.
 Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
