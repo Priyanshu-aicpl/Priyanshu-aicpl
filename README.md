@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫🫡 About Me:
 I am a 2024 AI & Data Science graduate with expertise in Machine Learning, Artificial Intelligence, Data Science, and Data Analytics. Currently working as a Software Engineer - AI, where I develop ML-driven solutions to solve real-world problems.
 
 🚀 Experience:
@@ -8,7 +8,7 @@ I am a 2024 AI & Data Science graduate with expertise in Machine Learning, Artif
 💡 Passionate about AI-driven innovation and data-driven decision-making, I am eager to contribute to impactful projects in Machine Learning and AI-based software development.
 Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
 <br>
-🌱 I’m currently learning GenAI and Deep Learning...
+🌱 I’m currently learning Generative AI, LLMs, RAG, and Deep Learning...
 
 
 ## 🌐 Socials:
