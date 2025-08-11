@@ -49,9 +49,6 @@ Let me know if you'd like any tweaks! 😊🧑‍🎓🔭
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
 
-# 📊 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-aicpl)](https://github.com/Priyanshu-aicpl)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyanshu-aicpl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
